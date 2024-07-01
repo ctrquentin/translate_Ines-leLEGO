@@ -37,14 +37,14 @@ Exemple 1: Message original
 ```
 Hier, j'ai vu un éléphant rose jouer de la guitare avec un kangourou, c'était trop cool!
 
-Traduction: "Hier, j'ai vu un spectacle bizarre au zoo, c'était amusant!"
+Traduction: "Hier, j'ai vu un spectacle au zoo !"
 ```
 Exemple 2: Message original
 ```
 Je pense que le temps est une illusion créée par les humains pour justifier leur procrastination.
 
-Traduction: "Je pense que je vais encore remettre à demain ce que je devais faire aujourd'hui."
-Contributions
+Traduction: "ERREUR INES A FAIT PLANTER LE SYSTEME"
+
 ```
 Toutes les contributions sont les bienvenues! Que ce soit pour ajouter de nouvelles fonctionnalités, améliorer les traductions, n'hésitez pas à faire une pull request.
 Remerciements
