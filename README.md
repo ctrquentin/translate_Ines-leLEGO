@@ -16,7 +16,7 @@ Installation
 
 Pour les courageux qui souhaitent installer cette application:
 
-````
+```
 git clone https://github.com/votre-compte/translate-ines-lelego.git
 cd translate-ines-lelego
 pip install -r requirements.txt
