@@ -32,18 +32,20 @@ python translate_ines_lelego.py
 4. (Facultatif) Envoyez la réponse automatique et regardez Ines essayer de comprendre à son tour.
 
 Exemples
-Exemple 1: Message original
 
-    "Hier, j'ai vu un éléphant rose jouer de la guitare avec un kangourou, c'était trop cool!"
+Exemple 1: Message original
+```
+Hier, j'ai vu un éléphant rose jouer de la guitare avec un kangourou, c'était trop cool!
 
 Traduction: "Hier, j'ai vu un spectacle bizarre au zoo, c'était amusant!"
+```
 Exemple 2: Message original
-
-    "Je pense que le temps est une illusion créée par les humains pour justifier leur procrastination."
+```
+Je pense que le temps est une illusion créée par les humains pour justifier leur procrastination.
 
 Traduction: "Je pense que je vais encore remettre à demain ce que je devais faire aujourd'hui."
 Contributions
-
+```
 Toutes les contributions sont les bienvenues! Que ce soit pour ajouter de nouvelles fonctionnalités, améliorer les traductions ou juste pour rire un bon coup, n'hésitez pas à faire une pull request.
 Remerciements
 
