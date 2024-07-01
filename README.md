@@ -46,7 +46,7 @@ Je pense que le temps est une illusion créée par les humains pour justifier le
 Traduction: "Je pense que je vais encore remettre à demain ce que je devais faire aujourd'hui."
 Contributions
 ```
-Toutes les contributions sont les bienvenues! Que ce soit pour ajouter de nouvelles fonctionnalités, améliorer les traductions ou juste pour rire un bon coup, n'hésitez pas à faire une pull request.
+Toutes les contributions sont les bienvenues! Que ce soit pour ajouter de nouvelles fonctionnalités, améliorer les traductions, n'hésitez pas à faire une pull request.
 Remerciements
 
-Un grand merci à Ines pour son incroyable capacité à nous perdre dans ses mots et pour l'inspiration qu'elle nous offre chaque jour. Merci aussi à vous, les utilisateurs courageux, qui tentez de décoder l'indécodable.
+Un grand merci à Ines pour son incroyable capacité à nous perdre dans ses mots et pour l'inspiration qu'elle nous offre chaque jour.
