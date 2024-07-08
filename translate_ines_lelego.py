@@ -15,7 +15,7 @@ def main():
     substitutions = {
         'tro': 'trop',
         'trist': 'triste',
-        'me vwar': 'me voir',
+        'vwar': 'voir',
         '+': 'plus',
         'svnt': 'souvent',
         'dent': 'dans',
